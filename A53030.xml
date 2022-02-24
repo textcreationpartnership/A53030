@@ -1,0 +1,777 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the better enabling the executors of Thomas Lloyd Esq., deceased, for selling of land for the payment of debts and portions settled by the said Thomas Lloyd and Patience his wife upon her children by her former husband Robert Story, deceased</title>
+            <author>New York (State)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53030</idno>
+            <idno type="STC">Wing N829</idno>
+            <idno type="STC">ESTC W16333</idno>
+            <idno type="EEBO-CITATION">13574954</idno>
+            <idno type="OCLC">ocm 13574954</idno>
+            <idno type="VID">100431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 797:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the better enabling the executors of Thomas Lloyd Esq., deceased, for selling of land for the payment of debts and portions settled by the said Thomas Lloyd and Patience his wife upon her children by her former husband Robert Story, deceased</title>
+                  <author>New York (State)</author>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Bradford, printer to the King's Excellent Majesty, at the Bible in New-York,</publisher>
+                  <pubPlace>[New York] :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>At head of title: The fifth Assembly, third sessions, begining the 25th day of March and ending the 24th day of April, anno regni Regis Gulilemi nunc Angliae, Scotiae, Franciae &amp; Hiberniae sexto.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sale of decedents' estates --  New York (State) --  Early works to 1800.</term>
+               <term>New York (State) --  History --  Colonial period, ca. 1600-1775 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <argument>
+            <pb facs="tcp:100431:1" rendition="simple:additions"/>
+            <p> 
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> 
+            </p>
+         </argument>
+         <head>The Fifth Aſſembly, Third Seſſions.</head>
+         <head type="sub">Beginning the 25th Day of <hi>March,</hi> and ending the
+24th Day of <hi>April, Anno Regni Regis</hi> Gulielmi <hi>nunc Angliae,
+Scotiae, Franciae &amp; Hiberniae, Sexto.</hi>
+         </head>
+         <div type="Act">
+            <head>An Act for the better enabling the Executors of
+<hi>Thomas Lloyd,</hi> 
+               <abbr>Eſq</abbr> deceaſed, for ſelling of Lands
+for the payment of Debts, and Portions ſettled by the ſaid <hi>Thomas
+Lloyd</hi> and <hi>Patience</hi> his Wife, upon her Children by her former
+Huſ<g ref="char:EOLhyphen"/>band <hi>Robert Story,</hi> deceaſed.</head>
+            <p>WHereas there are ſeveral pieces or parcels of ground, with the
+Houſes and Appurtenances belonging, ſcituate without the North Gate of the
+City of New-Yo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k, with an Iſland,
+called, <hi>Dyers</hi> or <hi>Oyſter Iſland,</hi> which <hi>William
+Dyer,</hi> late of New-York aforeſaid, and <hi>Mary</hi> his Wife, both
+ſince deceaſed, by their Indenture of Bargain and Sale, dated the 23d day
+of <hi>April,</hi> 1686, made between them the ſaid <hi>William</hi> and
+<hi>Mary Dyer</hi> of the one part, and <hi>Thomas Lloyd,</hi> then of New-York
+afore-ſaid, of the other part, for the Conſideration therein mentioned, did
+grant, bargain and ſell unto the ſaid <hi>Thomas Lloyd,</hi> to hold to
+him, his Heirs and Aſſigns forever, to the intent that the ſaid
+<hi>Thomas Lloyd</hi> and his Heirs ſhould from hence forth ſtand and be
+ſeized of the Premiſes, to the uſe of him the ſaid <hi>Thomas
+Lloyd</hi> and <hi>Patience</hi> his then Wife, during their joynt natural
+Liv<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, &amp; after the deceaſe of
+either of them, to the uſe of the longeſt Liver of them, their Heirs and
+Aſſigns forever, as by the ſaid Indenture, recorded in the Secretary's
+Office at New-York, relation being thereunto had, may more at large appear. And
+whereas the ſaid <hi>Thomas Lloyd</hi> and <hi>Patience</hi> his ſaid Wife,
+by their Deed Poll, dated the 30th day of <hi>April,</hi> 1686. importing a
+further Declaration of the Uſes of the ſaid recited Indentures of Bargain
+and Sale, to be, that the ſaid ſeveral pieces or parcels of Ground,
+Iſland, Houſes, and all other the ſaid Premiſes, ſhould be, and
+remain engaged as ſecurity for the payment of three hundred Pounds to
+<hi>Enoch Story,</hi> as part of the Legatory Portion given him by the laſt
+Will and Teſtament of <hi>Robert Story,</hi> his late Father, deceaſed; and
+the like <pb facs="tcp:100431:2"/>Sum of three hundred Pounds to <hi>Mercy Story,</hi> as
+part of her Legatory Portion given her by her ſaid deceaſed Father,
+<hi>Robert Story</hi> And further, they the ſaid <hi>Thomas Lloyd</hi> and
+<hi>Patience</hi> his Wife, did thereby declare their further intent to be,
+That after the deceaſe of the longeſt Liver of them, the ſaid
+<hi>Thomas</hi> and <hi>Patience</hi> the ſaid ſeveral Parcels of Land,
+Iſland and all other the Premiſes, with the Appurtenances, the ſaid ſix
+hundred Pounds being firſt paid to the ſaid <hi>Enoch</hi> and
+<hi>Mercy,</hi> ſhould deſcend and come to the youngeſt Children of him
+the ſaid <hi>Thomas Lloyd,</hi> that is to ſay, to his Daughter
+<hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> and <hi>Margaret,</hi> and to their Heirs and Aſſigns
+forever, as by the ſaid Deed Poll recorded in the ſaid Office at <hi>New
+York,</hi> may more fully appear.</p>
+            <p>And whereas the ſaid <hi>Thomas Lloyd</hi> afterwards, to wit, in
+the year 1692. out of a generous Diſpoſition and good deſign to encourage
+and promote the improvement of the ſaid City, as well by paying the Debts due
+by <hi>Robert Story</hi> deceaſed, his Predeceſſors, as to anſwer his
+own private utility and <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ons, did
+obtain the leave and concurrence of the then Mayor and principal Men of the
+Town, for the laying out of the ſaid ſeveral parcels of Ground into Lots
+and Streets ſuitable to accomodate the ſame. And there<g ref="char:EOLhyphen"/>upon he the ſaid
+<hi>Thomas Lloyd</hi> and <hi>Patience</hi> his ſaid Wife, not knowing but
+that their Sales of the Premiſes might create the Purchaſors a ſufficient
+and abſolute Title, did bargain and ſell ſome part of the ſaid Ground,
+with the Appurtenances, in order to diſcharge the ſaid 600
+<abbr>
+                  <hi>l.</hi>
+               </abbr> and other Debts, due from the Eſtate of the ſaid
+<hi>Robert Story</hi> deceaſed. And whereas the ſaid <hi>Tho. Lloyd</hi> by
+his laſt Will and Teſtament, dated the 10th of <hi>September,</hi> 1694.
+did impower his Executors, or any two of them, to ſell, diſpoſe and
+convey all his Eſtate, Right, Title and Intereſt of, in o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to all or any part of his Land and
+Hereditaments in <hi>New-York,</hi> or elſe-where, and made his ſaid Wife
+<hi>Patience Lloyd,</hi> his Son <hi>Mordicai Lloyd,</hi> with <hi>Iſaac
+Norris</hi> and <hi>David Lloyd,</hi> his Executors, and ſhortly after dyed;
+after whoſe deceaſe the ſaid <hi>David Lloyd</hi> and <hi>Iſaac
+Norris</hi> took upon them the burthen of the ſaid Executorſhip, &amp; with
+the conſent of the Overſeers of the ſaid <hi>Robert Story</hi>'s laſt
+Will, did pay unto the ſaid <hi>Pat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence Lloyd</hi> the ſaid 300 <abbr>
+                  <hi>l</hi>
+               </abbr> ſo as
+aforeſaid ſecured to the ſaid <hi>Enoch,</hi> and alſo did pay the
+ſaid 300 <abbr>
+                  <hi>l</hi>
+               </abbr> ſo ſecured to the ſaid <hi>Mercy,</hi>
+unto her Husband <hi>John Godfrey,</hi> ſince their intermarriage, in full
+performance of the Condition or Proviſo contained in the ſaid Deed Poll,
+whereby the ſaid Premiſes were pledged and bound for the payment of the
+ſaid 600 <abbr>
+                  <hi>l.</hi>
+               </abbr> afore<g ref="char:EOLhyphen"/>ſaid. And whereas alſo, that
+although the ſaid <hi>Elizabeth,</hi> the ſurviving Daughter of the ſaid
+<hi>Thomas Lloyd</hi> is arrived to the age of nineteen years, and doth
+ſignifie her rea<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eſs and
+aſſent to joyn with the ſaid Executors in any act or acts that may
+preclude and debar her and her Heirs from the ſaid re<g ref="char:EOLhyphen"/>mainder, or any other
+Right, Intereſt, Remainder or Reverſion of, in or to the ſaid ſeveral
+parcels of Ground, and other the Premiſes, or any part thereof, yet
+nevertheleſs, her Nonage, according the ſtrict Rules of Law, renders her
+incapable to execute any Conveyance for the releaſing her ſaid Right or
+Intereſt, by reaſon whereof the ſaid Executors are retarded in the
+Adminiſtration of the ſaid Eſtate, and in paying the Debts due by the
+ſaid <hi>Robert-Story</hi> and <hi>Thomas Lloyd</hi> deceaſed, for want of
+having the ſaid Eſtate improved to the greateſt advantage by ſale. And
+the ſaid Purchaſors appre<g ref="char:EOLhyphen"/>hending <pb facs="tcp:100431:2" rendition="simple:additions"/>themſelves
+likewiſe inſecure, Therefore for the further ſecurity of the Purchaſors
+aforeſaid, and better enabling of the ſaid Executors to ſell, convey and
+aſſure what remains unſold of the ſaid Ground and Premiſes, and that
+the ſame, when ſold, may be converted, according to the true intent and
+meaning of this Act, for the payment of the ſaid Debts of <hi>Robert
+Story</hi> and <hi>Thomas Lloyd,</hi> and to no other uſe and intent
+whatſoever. And after their ſaid Debts are well and truly paid, the
+reſidue and remainder, if any there ſhall be, to be equally divided, two
+thirds thereof unto the ſaid <hi>Elizabeth Lloyd,</hi> and the other third
+part unto the ſaid <hi>Patience,</hi> her Executors, Admini<g ref="char:EOLhyphen"/>ſtrators and
+Aſſigns forever, according to certain Articles of Agreement made and
+concluded between the ſaid Executors and <hi>Patience,</hi> bearing date the
+28th day of <hi>March,</hi> relation being thereunto had, may more fully and at
+large appear. May it pleaſe his Excellency <hi>Benjamin Fletcher</hi> Captain
+Ge<g ref="char:EOLhyphen"/>neral and Governour in chief in and over the Province of New-York,
+<hi>&amp;c.</hi> and Council and Repreſentatives of the ſame in General
+Aſſembly, at the humble Petition and Requeſt of the ſaid <hi>Patience
+Lloyd, David Lloyd, Iſaac Norris, John Godfrey</hi> and <hi>Elizabeth
+Lloyd,</hi> That it may be Declared and En<g ref="char:EOLhyphen"/>acted, and <hi>Be it therefore
+Enacted by the Governour and Council, and Repreſen<g ref="char:EOLhyphen"/>tatives convened in
+General Aſſembly, &amp; by the Authority of the ſame,</hi> That the
+Enrollment and Record of the ſaid recited Deed Poll made by the ſaid
+<hi>Thomas Lloyd</hi> and <hi>Patience</hi> his ſaid Wife in manner
+aforeſaid, ſhall, by the Authority of this General Aſſembly be made
+void and cancelled, and that the Uſes and Remainders thereby raiſed,
+limitted and declared, or therein mentioned or intended to be raiſed,
+limitted or declared, ſhall from hence-forth ceaſe, determine and be
+utterly void and of none effect.</p>
+            <p>And to the end and intent that the ſaid Executors may be the
+better enabled to pay the ſaid Debts and Portions, and diſtribute the
+remainder or reſide of the ſaid Eſtate, if any there be, in manner
+aforeſaid, <hi>Be it further Enacted by the Authority aforeſaid,</hi> That
+they the ſaid Executors of the ſaid <hi>Thomas Lloyds</hi> laſt Will and
+Teſtament aforeſaid, their Heirs, Executors and Aſſigns may be enabled,
+and are hereby enabled and impowered by their Conveyance to be executed in due
+form of Law, as well to confirm the ſaid Sales ſo made by the ſaid
+<hi>Thomas</hi> and <hi>Patience Lloyd</hi> in his Life time, as aforeſaid,
+to the Purchaſors above-mentioned, and to every of them their Heirs and
+Aſſigns forever, as alſo to ſell, convey and aſſure all and every
+part of the ſaid ſeveral pieces of Ground, Iſland, and all other the
+Premiſes, with their and every of their Appurtenances remaining unſold by
+the ſaid <hi>Thomas</hi> and <hi>Patience,</hi> to hold to ſuch Perſon or
+Perſons as ſhall purchaſe the ſame in fee ſimple or otherwiſe, the
+ſaid recited Deed Poll, or any Article, Covenant, Clauſe, Proviſo or
+Condition therein, or in any other Deed whatſoever contained to the contrary
+in any wiſe notwithſtanding.</p>
+         </div>
+         <div type="Act">
+            <pb facs="tcp:100431:3" rendition="simple:additions"/>
+            <head>An Act for the raiſing of one hundred and twenty effective Men,
+to be imployed by his Excellency for the re-inforcing and ſtrengthening the
+Fronteers of the Province at <hi>Albany,</hi> over and above the preſent
+Number of Forces poſted and imployed there for the ſafety of this and
+Neighbouring Provinces, to continue there for one whole year from the firſt
+of <hi>May</hi> next to the first of <hi>May</hi> in the year 1607. and for the
+raiſing the Sum of Two Thouſand Five Hundred Ninety Three Pounds, ſix
+Shillings and eight Pence, to be diſtributed by his Excellency, the Captain
+General, amongſt the ſaid Men, and the reſt of the four Companies ſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> over by his Majeſty.</head>
+            <p>WHereas the Forces lately ſent over by his moſt Excellent
+Majeſty, at the humble Requeſt and Deſire of his Excellency, his
+Majeſties Captain General, for the eaſe and ſafety of this Province, are
+ſince their arrival much weakened by Death, Deſertion and Sickneſs, and
+the ſtrength of the Fronteers at <hi>Albany</hi> thereby much leſſened,
+to the great endanger<g ref="char:EOLhyphen"/>ing of this and the adjacient Neighbouring Plantations
+that place having been, ſince the War, the only Barrier and place of Defence,
+whereby the ſaid adjacent Plantations have been preſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rved from the Violence and Incur<g ref="char:EOLhyphen"/>ſions of the Enemy.
+And whereas it is ind<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpenſibly
+neceſſary that the ſaid Fronteers ſhould be re-inforced, and
+ſufficiently ſtrengthened for the future Safeguard of our ſaid
+neighbouring adjacent Plantations, and the like Pre<g ref="char:EOLhyphen"/>ſervation of this
+Province, The Repreſentatives convened in General Aſſembly taking the
+ſame into their ſerious Conſideration, by the ſpecial direction of his
+Excellency's Speech made to them at the opening of this Seſſions of General
+Aſſembly, as a matter of great weight, and a Complyance thereunto as the
+beſt Return, and the moſt acceptable Service that his Majeſties Subjects
+in this Province can make unto his moſt ſacred Majeſty, who in the
+mid<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of his Preſſures, and the
+great and bloody War h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſac<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Perſon is engaged in, hath
+graciouſly condeſcended to remember the little handful of his People
+inhabiting in this his Majeſties Province, do therefore with the deepeſt
+Senſe, in moſt humble and moſt dutiful Acknowledgment of his Majeſties
+moſt gracious Favour in ſending Supplyes of Men, Artillary, and other
+Stores of War, for the eaſe and ſafety of his moſt Loyal Subjects
+inhabiting within his Majeſties ſaid Province, as well as in rendering an
+intire Obedience unto his Majeſties Royal Command, communicate<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in General Aſſembly by his
+Excellency, his Majeſties Captain General's Speech, as aforeſaid, Humbly
+pray that it may be Enacted, <hi>And Be it therefore Enacted by his Excellency
+the Governour and Council, and Repreſentatives convened in General
+Aſſembly, and by the Au<g ref="char:EOLhyphen"/>thority of the ſame,</hi> That a Fund of Twenty
+five hundred ninety three Pounds, ſix Shillings and eight Pence, current
+Money of this Province, be laid aſſeſſed, raiſed and levyed upon all
+and every the Inhabitants, Reſidents, Sojourners and Free-holders of and in
+this Province, which together with the Sum of Two hundred Pounds, like current
+Money, raiſed formerly by virtue of an Act of Aſſembly, entituled, <hi>An
+Act for the raiſing the Sum of <pb facs="tcp:100431:3" rendition="simple:additions"/>Seven Hundred Pounds,
+&amp;c.</hi> makes in the whole the Sum of Two Thouſand ſeven hundred
+ninety and three Pounds, ſix Shillings and eight Pence, to be imployed by his
+Excellency for the reinforcing and ſtrengthening the Fron<g ref="char:EOLhyphen"/>teers of this
+Province at <hi>Albany</hi> with one hundred and twenty effective men, over and
+above the preſent Number of Forces poſted and imployed there for the
+ſafety of this and Neighbouring Provinces, and to remain and continue there
+for the ſaid ſervice, and to free the Inhabitants of the Province from
+Detachments, except in caſe of inevitable neceſſity, for the ſpace and
+during the term of one whole year, to commence on the firſt day of
+<hi>May</hi> next en<g ref="char:EOLhyphen"/>ſuing the publication hereof, and to end and terminate
+upon the firſt day of <hi>May</hi> then next following, which ſhall be in
+the year of our Lord 1697. which Number or Men are to be liſted and formed in
+ſuch ways, and after ſuch manner as his Excellency the Captain General
+ſhall think fit, and the ſaid Sum of 2793 <abbr>
+                  <hi>l.</hi>
+               </abbr> 6
+<abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr> to be imployed and
+diſtributed by his ſaid Excellency the Captain General, amongſt the
+ſaid Number of 120 effective Men, to be poſted and imployed for the
+re-inforcing and ſtrengthening the Fronteers, as aforeſaid, and the reſt
+of the four Companies ſent over by his Majeſty, for the eaſe and ſafety
+of this Province, in ſuch manner and Pro<g ref="char:EOLhyphen"/>portion as to his Excellency in his
+diſcretion ſhall be thought convenient and needful. To be laid,
+aſſeſſed, raiſed and paid unto His Majeſties Receiver General, for
+the time being, at the City of <hi>New-York,</hi> in two equal payments, the
+one moyety or equal half part of the ſaid Sum of 2593
+<abbr>
+                  <hi>l.</hi>
+               </abbr> 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+at or before the 29th Day of <hi>September</hi> next, and the other moyety or
+equal half part thereof, at or before the 25th of <hi>March</hi> then next
+following, which ſhall be in the year of our Lord 1697. according to the
+ſeveral and reſpective Quota's and Proportions following, that is to
+ſay,</p>
+            <p>For the City &amp; County of <hi>New-York,</hi> Seven hundred ninety
+ſeven Pounds nine Shillings, being their Quota &amp; Proportion of 2593
+<abbr>
+                  <hi>l.</hi>
+               </abbr> 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+for the Uſes aforeſaid.</p>
+            <p>For the County of <hi>Weſtcheſter,</hi> One hundred forty two
+Pounds, twelve Shill<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs and eight
+Penc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, being their Quota and
+Proportion, as aforeſaid, for the U<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es afo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſaid.</p>
+            <p>For the County of <hi>Richmond,</hi> Sixty four Pounds, ſixteen
+Shillings and eight Pen<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, being
+their Quota &amp; Proportion, as aforeſaid, for the Uſes afore-ſaid.</p>
+            <p>
+               <hi>Kings County,</hi> F<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur hundred fifty five Pounds, two Shillings &amp; eight pence, being
+their Quota and Proportion, as aforeſaid, for the Uſes afore-ſaid.</p>
+            <p>
+               <hi>Queens County,</hi> Four hundred and ſeven Pounds, three
+Shillings, being their Quota and Proportion, as aforeſaid, for the Uſes
+aforeſaid.</p>
+            <p>
+               <hi>Suffolk</hi> County, Four hundred ſixty ſix Pounds,
+ſixteen Shillings, being their Quota and Proportion, as aforeſaid, for the
+Uſes aforeſaid.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> &amp; <hi>Dutches County,</hi> Two
+hundred thirty three Pounds eight Shillings, being their Quota and Proportion,
+as aforeſaid, for the Uſes aforeſaid.</p>
+            <p>And <hi>Orange County,</hi> Twenty five Pounds, eighteen Shillings
+and eight Pence, being their Quota &amp; Proportion, as aforeſaid, for the
+Uſes aforeſaid.</p>
+            <p>And for the aſſeſſing, levying and paying the aforeſaid
+Sum of 2593 <abbr>
+                  <hi>l.</hi>
+               </abbr> 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8
+<abbr>
+                  <hi>d.</hi>
+               </abbr> current Money aforeſaid, <hi>Be it further Enacted
+by the Authority <pb facs="tcp:100431:4"/>aforeſaid,</hi> That the Mayor and Aldermen of
+the City of <hi>New-York,</hi> the Juſtices of the Peace, the
+Aſſeſſors and Collectors, for the time being, of all and every the
+reſpective Cities, Counties, Towns, Mannors, Liberties and Ju<g ref="char:EOLhyphen"/>riſdictions
+within this Province, are hereby required, impowered and autho<g ref="char:EOLhyphen"/>rized to
+ſummons, aſſeſs, collect and pay the ſeveral ſums of Money herein
+before mentioned, according to the Proportions before expreſſed, in ſuch
+ways and means, and according to ſuch manner, rule and direction, and under
+ſuch Pains and Penalties as is contained, enjoyned, preſcribed and
+directêd in an Act of General Aſſembly, paſſed in the ſixth
+Year of his Ma<g ref="char:EOLhyphen"/>jeſties Reign, entituled, <hi>An Act for the raiſing and
+paying one hundred and ſeventy Men for the ſecuring the Fronteers of this
+Province in the City and County of</hi> Albany: and all and every Article,
+Rule, Clauſe, Pains and Penalties mentioned in the aforeſaid Act, for or
+concerning the ſummoning, aſſeſſing collecting and paying, or
+refuſing and neglecting the Execution of their reſpective Duties therein
+required, ſhall be, abide &amp; remain in full force and effect to all
+intents and purpoſes, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as full and
+ample manner, for the due Execution of this Act, until the iabove-ſaid Sum of
+2593 <abbr>
+                  <hi>l.</hi>
+               </abbr> 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8
+<abbr>
+                  <hi>d.</hi>
+               </abbr> be duely, fully and compleatly aſſeſſed,
+collected and paid, as above direct<g ref="char:EOLhyphen"/>ed, as fully and in like manner as if the
+ſame were particularly and at large recited and ſet down in the Body of
+this Act, any thing contained therein to the contrary hereof in any wayes
+notwithſtanding. And the Mayor and Aldermen of the City of <hi>New-York,</hi>
+and all and every the Juſtices, Aſſeſſors and Collectors of the
+reſpective Cities and Counties aforeſaid, and all others herein concerned,
+are to take Notice hereof accordingly.</p>
+         </div>
+         <div type="Act">
+            <head>An Act for the Confirming and Continuing an Act of General
+Aſſembly made in fourth Year of his Majeſties Reign, entituled, <hi>An
+Act for the ſatisfying and paying the Debts of the Government,</hi> Eighteen
+Months longer than the term therein mentioned, for the paying the Debts therein
+expreſſed.</head>
+            <p>THe Repreſentatives convened in General Aſſembly, upon
+Examina<g ref="char:EOLhyphen"/>tion of the Debts of the Government, do find it abſolutely
+neceſſary tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the for
+Additional Duty be continued eighteen Months longer than the time limitted the
+expiration thereof, for the ends and purpoſes here<g ref="char:EOLhyphen"/>after mentioned, and to no
+other purpoſe whatſoever. <hi>Be it therefore Enacted by his Excellency,
+the Governour and Council, and Repreſentatives con<g ref="char:EOLhyphen"/>vened in General
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſembly, and by the Authority
+of the ſame,</hi> That an Act of General Aſſembly made in the fourth Year
+of his Majeſties Reign, entituled, <hi>An Act for the ſatisfying and paying
+the Debts of the Government,</hi> and ſince continued by two ſeveral Acts
+of General Aſſembly, for the purpoſes and ends therein mentioned, until
+the fourteenth day of <hi>November</hi> next, ſhall be continued and
+confirmed from the ſaid 14th day of <hi>November</hi> next, until the end and
+term of eighteen Kalander Months then next following, that is to ſay, from
+the ſaid 14th day of <hi>November</hi> next, until the 14th day of
+<hi>May</hi> that ſhall be in the Year of our Lord 1698. and no longer.</p>
+            <p>
+               <hi>And it is further Enacted by the Authority aforeſaid,</hi>
+That the Additional <pb facs="tcp:100431:4" rendition="simple:additions"/>Rates and duties, made payable upon
+Merchandizes and Liquors imported into this Province, by virtue of the ſaid
+Act, ſhall be levied, collected and paid unto his Majeſties Reciver General
+for the time being, at his Majeſties Cuſtom-Houſe in the City of
+<hi>New-York,</hi> for the Term aforeſaid, and no longer, according to ſuch
+Rules and Directions, and under ſuch Pains, and Forfeitures as is contained
+and enioyned by the ſaid Act. And the aforeſaid Act and every Article, Rule
+and Clauſe therein mentioned, ſhall be, abide, continue and remain in full
+force, virtue and effect, to all intents and purpoſes, for the payment of the
+ſaid Sums of Money hereafter menti<g ref="char:EOLhyphen"/>oned, in ſuch due and equal Proportions
+as in the aforeſaid Act is expreſſed and directed, and to no other
+purpoſe or intent, or in any other manner or proportion whatſoever, as
+fully and in like manner as if the ſame were particularly and at large
+recited and ſet down in the Body of this Act, any thing contained in the
+aforeſaid Acts to the contrary hereof in any ways not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <p>And to the end that the Rates and Duties paid in manner aforeſaid,
+and now in hand by virtue of the ſaid Acts, and the Rates and Duties that are
+to be paid by virtue of this Act, may be duely, truly, and in the proportions
+aforeſaid, paid and imployed unto the ſeveral and reſpective Perſons
+and Uſes hereafter mentioned, and to no other uſe, purpoſe or intent
+whatſo<g ref="char:EOLhyphen"/>ever, <hi>Be it further Enacted by the Authority aforeſaid,</hi>
+That the Sum of Two Thouſand ſeven hundred thirty four Pounds eleven
+Shillings and three Farthings now in hand, and raiſed by virtue of the ſaid
+Acts, be diſtribu<g ref="char:EOLhyphen"/>ted according to the Proportions aforeſaid, amongſt the
+Perſons and to the Uſes hereafter mentioned; and the reſidue and
+remainder that ſhall ariſe and become payable by virtue of this Act, to be
+likewiſe diſtributed in like manner as aforeſaid, unto the purpoſes
+hereafter mentioned, until the ſame be compleatly paid and ſatisfied, that
+is to ſay, for the paying and ſatisfying of 317 <abbr>
+                  <hi>l.</hi>
+               </abbr> 13
+<abbr>
+                  <hi>s.</hi>
+               </abbr> 1 <hi>qr.</hi> due from the Government for Incidental
+Charges expended for the ſecurity of the Fronteers from the 28th Day of
+<hi>March,</hi> 1691. to the firſt day of <hi>May,</hi> 1696. And likewiſe
+for the paying and ſatisfying the Sum of 250 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+together with the Intereſt of <hi>Ten per Cent. per Annum,</hi> until the
+ſame be paid, due for the pay of the Officers and Souldiers of Major
+<hi>Schuylers</hi> Company, according to eſtabliſhment. And likewiſe the
+Sum of 1056 <abbr>
+                  <hi>l.</hi>
+               </abbr> 13 <abbr>
+                  <hi>s.</hi>
+               </abbr> 11
+<abbr>
+                  <hi>d.</hi>
+               </abbr> 1 <hi>qr.</hi> to Coll. <hi>Stephanus Courtlandt,</hi>
+being a Debt due to him from the Government, and for the payment thereof the
+Additional Duty was firſt raiſed. And likewiſe the Sum of 1103
+<abbr>
+                  <hi>l.</hi>
+               </abbr> 9 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+1 <hi>qr.</hi> to Major <hi>Brockholſt</hi> and Capt. <hi>Baxter</hi>'s
+Company, being a Debt due as laſt aforeſaid. And likewiſe the Sum of 74
+<abbr>
+                  <hi>l.</hi>
+               </abbr> 8 <abbr>
+                  <hi>s.</hi>
+               </abbr> to Major
+<hi>Weſſellst</hi> being a Debt due as laſt aforeſaid. And likewiſe
+the Sum of 1224 <abbr>
+                  <hi>l.</hi>
+               </abbr> 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 4
+<hi>
+                  <abbr>d.</abbr>,</hi> being a Debt due to the Magiſtrates of
+<hi>Albany,</hi> as laſt aforeſaid. And like<g ref="char:EOLhyphen"/>wiſe the Sum of 77
+<abbr>
+                  <hi>l.</hi>
+               </abbr> 8 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+1 <hi>ob.</hi> being a Debt due to <hi>Thomas Clark,</hi> as laſt
+aforeſaid. And alſo the Sum of 15 <abbr>
+                  <hi>l.</hi>
+               </abbr> being a Debt due
+to <hi>John Rofie,</hi> as laſt aforeſaid. And alſo the Sum of 15
+<abbr>
+                  <hi>l.</hi>
+               </abbr> being a Debt due to <hi>David Schuyler,</hi> as laſt
+aforeſaid. The whole of the ſaid Debts, for which the ſaid Additional
+Duty &amp; Rates was firſt raiſed, amounting to the Sum of Three 
+<pb facs="tcp:100431:5"/>five hundred ſixty ſix Pounds ſix Shillings &amp; eight
+Pence. And likewiſe for finiſhing of his Majeſties Chappel in the Fort
+the Sum of 4<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0
+<abbr>
+                  <hi>l</hi>
+               </abbr> And like<g ref="char:EOLhyphen"/>wiſe the Sum of 150 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+to Coll. <hi>Richard Ingoldsby,</hi> for the defraying the ex<g ref="char:EOLhyphen"/>traordinary
+Charge he has been at by being poſted at <hi>Albany</hi> for the ſecurity
+of the Fronteers. All which Debts and Sums of Money amount in the whole unto
+the Sum of Four Thouſand Seven Hundred Thirty Three Pounds Nineteen Shillings
+and Eight Pence Farthing.</p>
+            <p>And for the more regular payment of the Debts aforeſaid, <hi>Be it
+further Enacted by the Authority aforeſaid,</hi> That within one Moneth after
+the Publi<g ref="char:EOLhyphen"/>cation hereof the ſeveral and reſpective Creditors heretofore
+mentioned and expreſſed, ſhall regiſter, or cauſe to be regiſtered
+the Debts due to them reſpectively, in a Book, at his Majeſties
+Cuſtom-houſe of New-York, which his Majeſties Receiver General, for the
+time being, ſhall have for that pur<g ref="char:EOLhyphen"/>poſe, wherein he ſhall likewiſe
+keep a perfect and diſtinct Account of the Rates and Duties upon Merchandize,
+that ſhall become payable unto him by virtue of this Act, and the ſame
+ſhall adjuſt every three Months, and make payment thereof to the Perſons
+above-mentioned, their Executors, Adminiſtrators or Aſſigns, in Quarterly
+payments, and in equal Propor<g ref="char:EOLhyphen"/>tion, according to the greatneſs and
+ſmallneſs of the ſeveral and reſpecti<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Sums aforeſaid, and to no other uſe, purpoſe, nor in any
+other manner <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way whatſoever,
+any thing contained herein to the contrary hereof, or in any other of the
+ſaid Acts notwithſtanding.</p>
+         </div>
+         <div type="bill">
+            <div type="reasons_against">
+               <head>Reaſons offered to the Council by his Excellency the
+Go<g ref="char:EOLhyphen"/>vernour, againſt paſſing the Bill raiſing 2593 <abbr>l.</abbr> 6
+<abbr>s.</abbr> 8 <abbr>d.</abbr>
+               </head>
+               <p>
+                  <hi>Firſt,</hi> THe Bill does not anſwer the end, there is no
+Proviſion made for the Expence of Officers that muſt be imployed to the
+Neigh<g ref="char:EOLhyphen"/>bouring Collonies, in raiſing of the Men, nor for the incidental Charge
+of marching and tranſporting the Men to the Fronteers, if they can be
+raiſed, (which is yet a doubt) And allowing the Money to be all ſolvent,
+and paid at the time appointed (which can never be expected) it cannot anſwer
+the Sum of three Pounds a Man, Levy Money, which muſt be in<g ref="char:EOLhyphen"/>ſtantly paid
+them in hand.</p>
+               <p>
+                  <hi>Secondly,</hi> If theſe Men cannot be levyed upon this
+Encouragement, there is no Proviſion made for the ſecurity of the Province.
+Money without hands gives no Defence. And though you may allow me to be judge
+of the <hi>In<g ref="char:EOLhyphen"/>evitaeble Neceſſity,</hi> the Repreſentatives plainly
+ſhow they are not of this Opinion, by refuſing to allow ſuch a Proviſo
+to be put in the Bill.</p>
+               <p>
+                  <hi>Thirdly,</hi> By this Bill the Power of Detachments ſeems to
+be cut off for a twelve Month, the words <hi>[Inevitable Neceſſity]</hi>
+will need an Explanation, <pb facs="tcp:100431:5" rendition="simple:additions"/>which the Aſſembly (as they
+have done in another caſe) will always pre<g ref="char:EOLhyphen"/>tend to be judges of, by which
+means the People will be blown up to a
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and deny Obedience to my
+Commands, be the Neceſſity never ſo great and inevitable.</p>
+            </div>
+            <div type="reasons_for">
+               <head>Reaſons offered by the Council for the paſſing of the
+Bill for raiſing Two Thouſand five hundred Ninety three Pounds, ſix
+Shillings and eight Pence, &amp;c. as amended by the Aſſembly, the 23d of
+<hi>April,</hi> 1696.</head>
+               <p>WE are humbly of Opinion with your Excellency, That this Bill does
+not fully nor perfectly anſwer the end, but we do humbly offer, That after
+many Debates and Conferences with the Committees of the ſaid Aſſembly
+upon theſe Heads, We do not find any other better ways or means can be at
+preſent obtained. And that although there is by the ſaid Act no proviſion
+made for incidental Charges, that muſt certainly accrue in the imploying
+O<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cers for the procuring, levying
+and tranſport<g ref="char:EOLhyphen"/>ing ſuch men as ſhall be ſo got, yet in regard the
+diſpoſition of this Money for this end, is left to be imployed, as your
+Excellency ſhall judge fit, We are of Opinion, That ſuch part thereof as
+may be needful, and can be <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eſently raiſed, may be properly applicable to the imploying
+Officers, for that end, to the Neighbouring Provinces.</p>
+               <p>To the <hi>Second,</hi> We are humbly of Opinion, That though in
+expreſs words, in caſe the way of raiſing Men by this Bill, without
+Detachment, fail, there is no other certain way propoſed, yet we are humbly
+of Opi<g ref="char:EOLhyphen"/>nion, That if after all means uſed for levying theſe Men without
+Detach<g ref="char:EOLhyphen"/>ments, they cannot be got, it muſt then be underſtood, there will
+then be an Inevitable Neceſſity for detaching Men out of this Province, and
+that your Excellency will be pleaſed to ſend for the whole Houſe, and
+ſo explain that Clauſe to them.</p>
+               <p>To the <hi>Third,</hi> We do humbly offer our Opinion to your
+Excellency, That by this Act, your Excellency's Power of Detaching is not cut
+off, but reſtrained, as in the fore-going Article is explained, and ſuch an
+Explanation muſt prevent all Miſ-interpretations on that Head.</p>
+               <p>For which Reaſons, We are humbly of Opinion, That it is
+agreeable to his Majeſties Service, and for the eaſe and benefit of this
+Province, that your Excellency do give your aſſent unto the ſaid Bill,
+which is humbly ſubmitted by</p>
+               <closer>
+                  <signed>Your Excellency's Obedient Servants, 
+<list>
+                        <item>N. Bayard;</item>
+                        <item>S Cortland,</item>
+                        <item>C. Heathcote,</item>
+                        <item>G. Munveil,</item>
+                        <item>VV. Pinhorn,</item>
+                        <item>P. Schuyler,</item>
+                        <item>VV. Smith.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="speech">
+               <pb facs="tcp:100431:6"/>
+               <head>His Excellency the Governour's Speech to the Aſſembly at
+their Adjournment, April 24. 1696.</head>
+               <opener>
+                  <salute>Mr. Speaker, and you Gentlemen
+Repreſentatives;</salute>
+               </opener>
+               <p>THis is the chief Bill upon which our Safety hinges, its for Money
+to levy Men to recruit his Majeſties Companies, for the ſtrengthening of
+the Fronteers: I have ſome Exceptions to the wording of it, and the
+Subſtance: I was againſt the paſſing of it, and gave my Reaſons to
+the Council: It does not ſeem to anſwer the end. The Gentlemen of the
+Council have given me their Opinions under their Hands for paſſing of it. I
+have reſigned my Reaſon to theirs, and therefore paſs it.</p>
+               <p>
+                  <hi>Gentlemen,</hi> I am as tender of the Peoples Eaſe as any of
+you, and have earneſtly both ſtudied that and their ſafety. Yet if Men
+cannot be found for the encouragement you enable me to give, notwithſtanding
+the endea<g ref="char:EOLhyphen"/>vours and pains I ſhall take to procure them, and the Fronteers
+become weak and expoſed, I ſhall think the neceſſity of Detachments
+<hi>Inevitable,</hi> being reſolved not to loſe one foot of this Province
+while I have Hands to defend it. When the Diſeaſe is deſperate, the Cure
+muſt be ſo, and as this is the ſharpeſt Reme<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, it ſhall be the laſt I ſhall uſe, and obvious
+to all good Men the neceſſity is
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nevitable.</p>
+               <p>The <hi>Second</hi> is a Bill for payment of Debts, contracted
+long before my arrival: It is commendable in you to keep up the Credit of the
+Government. I have been as good a Husband of the King's Revenue as ever I was
+of my own private Fortune. I underſtand not an Account, I left that part to
+the Gentlemen of the Council, who are of the greateſt Intereſt amongſt
+you, whom I believe to be honeſt Men, and to have dealt fairly in the matter
+of the Publick Accounts.</p>
+               <p>The <hi>Third</hi> is a Bill to cut off a Deed of Truſt, with
+Uſes, for payment of Debts, it is private. I ſuppoſe moſt of your
+Affairs will call you home, I think fit to adjourn you to the 29th of
+<hi>September</hi> next, and deſire Mr. Speaker to adjourn the Houſe
+accordingly.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>William Bradford,</hi> Printer to the King's
+Excellent Majeſty, at the Bible in <hi>New-York,</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
